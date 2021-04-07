@@ -1,0 +1,27 @@
+1/ Cài đặt project:
+npx create-react-app ten-app
+
+2/ Chạy project:
+2.1/ mở terminal ngay tại file package.json
+2.2/ gõ lệnh: npm run start 
+
+3/ tai lieu ve reactjs
+4/ flow code reactjs : index.html => index.js => app.js
+5/ reactjs se khong hieu html ma no chi hieu jsx
+6/ ly do dung component la:
+    - de quan ly (chia de tri)
+    - tai su dung (uu tien hang dau)
+7/ dieu kien de tao ra mot component:
+    - tai su dung (uu tien hang dau)
+    - de quan ly (chia de tri)
+8/ co 2 dang component:
+    - class
+    - function
+bonus:
+1/ một website thường có 2 dạng:
+- single page application (chuyển trang ma khong bi load)
+- multiple page application (chuyen trang bi load)
+
+2/ ve mat SEO thi multiple page application se tot hon 
+3/ react js (single page application) thi khong SEO tot nhung NEXTJS(https://nextjs.org) giup reactjs SEO tot 
+
